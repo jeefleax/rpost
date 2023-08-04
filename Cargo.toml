@@ -1,0 +1,8 @@
+[workspace]
+package.version = "0.1.0"
+package.authors = ["Jeefleax"]
+package.repository = "https://github.com/jeefleax/rpost"
+package.license-file = "LICENSE"
+package.edition = "2021"
+members = ["rpost"]
+
